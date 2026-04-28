@@ -2,7 +2,7 @@
 
 **Builder. Engineer. Product thinker.** I ship frontier tech.
 
-After twenty years building ventures, teams, and large-scale operations, AI pulled me back to my first love — and I'm shipping more product in months than I have in years. Architecting distributed systems and the CI/CD muscle that comes with them turn out to be the exact instincts that matter when you're orchestrating Codex, Claude, and a fleet of agents: failure modes look different at agent-scale, but the architectural reflexes don't. Same builder, different era.
+After years building ventures, teams, and large-scale operations, AI pulled me back to my first love — and I'm shipping more product in months than I have in years. Architecting distributed systems and the CI/CD muscle that comes with them turn out to be the exact instincts that matter when you're orchestrating Codex, Claude, and a fleet of agents: failure modes look different at agent-scale, but the architectural reflexes don't. Same builder, different era.
 
 Based in the Bay Area.
 
