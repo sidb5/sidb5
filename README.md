@@ -56,7 +56,7 @@ Covered by Forbes, BBC, CNBC, NBC, India Today, NDTV. Frost & Sullivan Advisory 
 
 ## 📬 Reach me
 
-- 💼 [LinkedIn](https://linkedin.com/in/siddharthbhavsar)
+- 💼 [LinkedIn](https://linkedin.com/in/sidbtechexecutive)
 - ✍️ [Medium](https://medium.com/@siddharthbhavsar)
 
 
