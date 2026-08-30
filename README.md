@@ -10,8 +10,6 @@ Based in the Bay Area.
 
 ## 🛠 Currently shipping
 
-Three provisional patents in recent months. Inventor-of-record on each. Working prototypes pinned for two; the third is in the build queue.
-
 ### 🧬 Biological Operating System & Automated Discovery Infrastructure
 `USPTO 63/977,994` → *reference implementation in progress*
 
