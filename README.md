@@ -18,7 +18,7 @@ I create a lot of proofs of concept projects here to explore many different cutt
 ### Workflow Orchestration & Operational Automation
 - **[BiotechOS](https://github.com/sidb5/BiotechOS-AI-Native-ClosedLoop-Predictive-Robotic-DrugDiscovery-Engine)** — Large closed-loop operating platform spanning predictive AI, workflow orchestration, async execution, resource routing, multi-tenant controls, typed state machines, external-system integration, and robotic wet-lab automation.
 - **[Ops Automation](https://github.com/sidb5/cadence-ops-automation)** — Workflow-automation platform POC focused on durable process execution, task orchestration, state transitions, retries, and operational visibility.
-- **[Revenue Call Intelligence](https://github.com/sidb5/revenue-call-intelligence)** — AI revenue-operations platform that converts unstructured calls into structured deal stages, risks, stakeholders, next steps, and operational dashboards.
+- **[Voice AI Revenue Call Intelligence](https://github.com/sidb5/revenue-call-intelligence)** — AI revenue-operations platform that converts unstructured calls into structured deal stages, risks, stakeholders, next steps, and operational dashboards.
 
 ### Agentic Systems, RAG & Decision Support
 - **[Grounded RAG Support Agent](https://github.com/sidb5/grounded-rag-support-agent)** — Grounded support-agent POC combining retrieval, tool execution, evidence-constrained answers, and evaluation of agent behavior.
