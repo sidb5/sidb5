@@ -33,7 +33,7 @@ Settlement bridge that converts appreciation in tokenized reserves (e.g. gold) i
 - **Sparse dependencies, boring infra.** Fewer moving parts, honest hot paths, plain databases unless there's a reason not to.
 - **Product first, code second.** Every commit ladders to a user it serves or a claim it protects.
 - **Ship to learn.** Provisional patents are timestamped hypotheses. Repos are the real proof.
-- **Full-stack by necessity, full-function by disposition.** I've been CEO, CTO, COO, and CFO on different days of the same week. Code is the part I missed most.
+- **Full-stack by necessity, full-function by disposition.** on different days of the same week. Code is the part I enjoy the most.
 
 ---
 
@@ -46,9 +46,9 @@ Non-linear by design. A compressed pass:
 - **Advanced materials** — platform tech across cement, defense, EV batteries, solar, agriculture; scaled 500 kg/day production; multi-lab certifications.
 - **Nation-scale systems** — comms and outreach architectures reaching 500M+ citizens; contributed to national policy across IT, electronics, biotech, e-governance; former Honorary Advisor, Secretary of Science & Technology (Govt. of Gujarat).
 - **Fortune 500** — Philips Healthcare (ECG patent `US 9,064,044`, Ovation + TransPHorm Awards, Top Talent list), Toshiba, Hitachi, GE.
-- **Research** — early work at USC's Microsoft-funded DB lab (*Proteus*) shipped into the .NET framework. MBA — UCLA Anderson. MS CS — USC.
+- **Research** — early work at icrosoft Database lab (*Proteus*) shipped into the .NET framework. MS CS — USC.
 
-Covered by Forbes, BBC, CNBC, NBC, India Today, NDTV. Frost & Sullivan Advisory Board (4 years).
+
 
 ---
 
