@@ -23,7 +23,7 @@ I create a lot of proofs of concept projects here to explore many different cutt
 ### Agentic Systems, RAG & Decision Support
 - **[Grounded RAG Support Agent](https://github.com/sidb5/grounded-rag-support-agent)** — Grounded support-agent POC combining retrieval, tool execution, evidence-constrained answers, and evaluation of agent behavior.
 - **[Clinical Policy Review Agent](https://github.com/sidb5/clinical-policy-review-agent)** — Healthcare decision-support prototype spanning prior-auth intake, OCR, de-identification, policy-grounded citations, structured review, and human-in-the-loop nurse decision support.
-- **[FreshFlow Analytics](https://github.com/sidb5/freshflow-analytics)** — Conversational analytics POC combining NL-to-SQL, semantic business rules, query validation, and grounded natural-language answers over structured data.
+- **[Retail AI/LLM based Analytics](https://github.com/sidb5/freshflow-analytics)** — Conversational analytics POC combining NL-to-SQL, semantic business rules, query validation, and grounded natural-language answers over structured data.
 - **[Context & Privacy-Aware Interactive Outreach](https://github.com/sidb5/AI-Context-Privacy-Aware-Individualized-Comm)** — Stateful multi-channel agent workflow with context resolution, persistent sessions, approved-content retrieval, privacy-state enforcement, verified-intent transitions, and auditable interaction history.
 
 ### Document Intelligence & Human-in-the-Loop Systems
@@ -33,8 +33,8 @@ I create a lot of proofs of concept projects here to explore many different cutt
 - **[BiotechOS RFP Tool](https://github.com/sidb5/biotechos-rfp-tool)** — Applied-AI workflow prototype around biotech/CRO request processing and structured response generation.
 
 ### Security, Identity & Data Protection
-- **[Vaultline Storage POC](https://github.com/sidb5/vaultline-storage-poc)** — Tokenizing storage-wrapper POC using envelope-style per-store keys to separate logical identifiers from protected underlying storage.
-- **[Tenant Care API](https://github.com/sidb5/tenant-care-api-poc)** — Multi-tenant healthcare API POC demonstrating tenant isolation, PHI redaction, policy-aware access, and auditable request trails.
+- **[Secure File System Storage POC](https://github.com/sidb5/vaultline-storage-poc)** — Tokenizing storage-wrapper POC using envelope-style per-store keys to separate logical identifiers from protected underlying storage.
+- **[Multi-tenant healthcare API](https://github.com/sidb5/tenant-care-api-poc)** — Multi-tenant healthcare API POC demonstrating tenant isolation, PHI redaction, policy-aware access, and auditable request trails.
 - **[ECG-Based Authentication](https://github.com/sidb5/AI-Heartbeat-FingerPrint-Based-Authentication)** — Physiological-identity prototype spanning ECG preprocessing, fiducial/non-fiducial feature extraction, Random Forest inference, waveform analysis, and a runnable authentication workflow.
 - **[Live-Presence Authorization](https://github.com/sidb5/cardiac-livepresence-demo)** — Security architecture prototype combining physiological liveness signals, deterministic asset policies, signed JWT authorization assertions, replay/spoof checks, and tamper-evident audit logging.
 
