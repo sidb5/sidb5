@@ -6,6 +6,8 @@ I build systems end-to-end across AI, fintech, healthcare and distributed platfo
 
 I use coding agents aggressively because they increase implementation throughput, but I still own the architecture, decomposition, code review, debugging, validation and system behavior.
 
+I create a lot of proofs of concept projects here to explore many different cutting edge paradigms(curently 45+ such projects)
+
 ## How I build
 
 - Architecture through implementation
