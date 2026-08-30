@@ -31,9 +31,9 @@ Settlement bridge that converts appreciation in tokenized reserves (e.g. gold) i
 
 - **AI-native by default.** Claude Code, Cursor, agents. I don't ship a line I can't trace, and I don't skip tests just because the LLM wrote them.
 - **Sparse dependencies, boring infra.** Fewer moving parts, honest hot paths, plain databases unless there's a reason not to.
-- **Product first, code second.** Every commit ladders to a user it serves or a claim it protects.
+- **Architecture through implementation**. I work from system boundaries and failure modes down to APIs, schemas, concurrency, tests and production behavior.
 - **Ship to learn.** Provisional patents are timestamped hypotheses. Repos are the real proof.
-- **Full-stack by necessity, full-function by disposition.** on different days of the same week. Code is the part I enjoy the most.
+- **Full-stack by necessity, full-function by disposition.** on different days of the same week. I stay hands-on: architecture, implementation, debugging, tests, performance and production failure modes.
 
 ---
 
@@ -46,7 +46,7 @@ Non-linear by design. A compressed pass:
 - **Advanced materials** — platform tech across cement, defense, EV batteries, solar, agriculture; scaled 500 kg/day production; multi-lab certifications.
 - **Nation-scale systems** — comms and outreach architectures reaching 500M+ citizens; contributed to national policy across IT, electronics, biotech, e-governance; former Honorary Advisor, Secretary of Science & Technology (Govt. of Gujarat).
 - **Fortune 500** — Philips Healthcare (ECG patent `US 9,064,044`, Ovation + TransPHorm Awards, Top Talent list), Toshiba, Hitachi, GE.
-- **Research** — early work at icrosoft Database lab (*Proteus*) shipped into the .NET framework. MS CS — USC.
+- **Research** — early work at Microsoft Database lab (*Proteus*) shipped into the .NET framework. MS CS — USC.
 
 
 
