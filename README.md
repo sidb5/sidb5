@@ -14,7 +14,23 @@ I create a lot of proofs of concept projects here to explore many different cutt
 - **[SiteReliability](https://github.com/sidb5/SiteReliability)** — Multi-tenant observability platform with FastAPI/SQLAlchemy, adaptive EWMA anomaly detection, async ingestion connectors, webhook delivery, JWT/API-key security, tenant isolation, and a 266-test validation suite.
 - **[Mailchimp Trends Engine](https://github.com/sidb5/mailchimp-trends-engine)** — Production-shaped signal intelligence pipeline spanning ingestion, normalization/dedup, clustering, trend detection, grounded RAG, personalization, campaign workflows, lineage, retries/circuit breakers, and local-to-AWS adapter composition.
 - **[Adaptive Resource Router](https://github.com/sidb5/adaptive-resource-router)** — Capacity-aware request-routing POC with pluggable eligibility constraints and selection strategies for distributing work across heterogeneous resources.
-- **[Ops Automation](https://github.com/sidb5/cadence-ops-automation)** — Workflow-automation platform POC for operations teams, focused on durable process execution, task orchestration, state transitions, and operational visibility.
+
+### Workflow Orchestration & Operational Automation
+- **[BiotechOS](https://github.com/sidb5/BiotechOS-AI-Native-ClosedLoop-Predictive-Robotic-DrugDiscovery-Engine)** — Large closed-loop operating platform spanning predictive AI, workflow orchestration, async execution, resource routing, multi-tenant controls, typed state machines, external-system integration, and robotic wet-lab automation.
+- **[Ops Automation](https://github.com/sidb5/cadence-ops-automation)** — Workflow-automation platform POC focused on durable process execution, task orchestration, state transitions, retries, and operational visibility.
+- **[Revenue Call Intelligence](https://github.com/sidb5/revenue-call-intelligence)** — AI revenue-operations platform that converts unstructured calls into structured deal stages, risks, stakeholders, next steps, and operational dashboards.
+
+### Agentic Systems, RAG & Decision Support
+- **[Grounded RAG Support Agent](https://github.com/sidb5/grounded-rag-support-agent)** — Grounded support-agent POC combining retrieval, tool execution, evidence-constrained answers, and evaluation of agent behavior.
+- **[Clinical Policy Review Agent](https://github.com/sidb5/clinical-policy-review-agent)** — Healthcare decision-support prototype spanning prior-auth intake, OCR, de-identification, policy-grounded citations, structured review, and human-in-the-loop nurse decision support.
+- **[FreshFlow Analytics](https://github.com/sidb5/freshflow-analytics)** — Conversational analytics POC combining NL-to-SQL, semantic business rules, query validation, and grounded natural-language answers over structured data.
+- **[Context & Privacy-Aware Interactive Outreach](https://github.com/sidb5/AI-Context-Privacy-Aware-Individualized-Comm)** — Stateful multi-channel agent workflow with context resolution, persistent sessions, approved-content retrieval, privacy-state enforcement, verified-intent transitions, and auditable interaction history.
+
+### Document Intelligence & Human-in-the-Loop Systems
+- **[Insurance Intake Intelligence](https://github.com/sidb5/insurance-intake-intelligence)** — Document-intelligence architecture slice using schema-guided LLM extraction, evidence grounding, confidence scoring, reviewer correction, and quality/operations metrics.
+- **[GrantAssistant](https://github.com/sidb5/grant-assistant)** — Chrome-extension + Next.js AI copilot integrating Claude, Supabase OAuth/Postgres, RLS, citation ranking, constrained text transformation, and an auditable PDF compliance trail.
+- **[CRO AI Workflow](https://github.com/sidb5/CRO-Tool-Demo)** — Sanitized architecture of a commercial LLM workflow using structured intake, typed normalization, independently recoverable generation stages, human review, versioned persistence, and operational evals.
+- **[BiotechOS RFP Tool](https://github.com/sidb5/biotechos-rfp-tool)** — Applied-AI workflow prototype around biotech/CRO request processing and structured response generation.
 
 ### Security, Identity & Data Protection
 - **[Vaultline Storage POC](https://github.com/sidb5/vaultline-storage-poc)** — Tokenizing storage-wrapper POC using envelope-style per-store keys to separate logical identifiers from protected underlying storage.
@@ -24,15 +40,6 @@ I create a lot of proofs of concept projects here to explore many different cutt
 
 ### Fintech & Transaction Systems
 - **[Tokenized Reserve → Treasuries](https://github.com/sidb5/Tokenized-Reserve-to-Treasuries)** — Settlement prototype connecting Solidity/Hardhat token rails, merchant payment flows, reserve redemption, Next.js UX, and server-side brokerage/Treasury execution adapters.
-
-### AI-Native Applications, Agents & RAG
-- **[Grounded RAG Support Agent](https://github.com/sidb5/grounded-rag-support-agent)** — Grounded support-agent POC combining retrieval, tool execution, evidence-constrained answers, and evaluation of agent behavior.
-- **[FreshFlow Analytics](https://github.com/sidb5/freshflow-analytics)** — Conversational retail-analytics POC combining NL-to-SQL, semantic business rules, query validation, and grounded natural-language answers over structured data.
-- **[BiotechOS](https://github.com/sidb5/BiotechOS-AI-Native-ClosedLoop-Predictive-Robotic-DrugDiscovery-Engine)** — Closed-loop drug-discovery architecture spanning AI compute, workflow orchestration, CRO routing, async jobs, multi-tenant data controls, typed state machines, and robotic wet-lab integration contracts.
-- **[Context & Privacy-Aware Interactive Outreach](https://github.com/sidb5/AI-Context-Privacy-Aware-Individualized-Comm)** — Stateful multi-channel interaction prototype with context resolution, persistent sessions, approved-content retrieval, privacy-state enforcement, verified-intent transitions, and auditable interaction history.
-- **[GrantAssistant](https://github.com/sidb5/grant-assistant)** — Chrome-extension + Next.js AI copilot integrating Claude, Supabase OAuth/Postgres, RLS, citation ranking, constrained text transformation, and an auditable PDF compliance trail.
-- **[CRO AI Workflow](https://github.com/sidb5/CRO-Tool-Demo)** — Sanitized architecture of a commercial LLM workflow using structured intake, typed normalization, independently recoverable generation stages, human review, versioned persistence, and operational evals.
-- **[BiotechOS RFP Tool](https://github.com/sidb5/biotechos-rfp-tool)** — Applied-AI workflow prototype around biotech/CRO request processing and structured response generation.
 
 ### Applied ML & Computer Vision
 - **[Brain Stroke Detection](https://github.com/sidb5/AI-BrainStroke-Detection)** — YOLOv8 medical-imaging inference prototype with Streamlit, Firebase authentication, Google Drive integration, and an end-to-end image-screening flow.
