@@ -14,7 +14,7 @@ I create a lot of proofs of concept projects here to explore many different cutt
 - **[SiteReliability](https://github.com/sidb5/SiteReliability)** — Multi-tenant observability platform with FastAPI/SQLAlchemy, adaptive EWMA anomaly detection, async ingestion connectors, webhook delivery, JWT/API-key security, tenant isolation, and a 266-test validation suite.
 - **[Mailchimp Trends Engine](https://github.com/sidb5/mailchimp-trends-engine)** — Production-shaped signal intelligence pipeline spanning ingestion, normalization/dedup, clustering, trend detection, grounded RAG, personalization, campaign workflows, lineage, retries/circuit breakers, and local-to-AWS adapter composition.
 - **[Adaptive Resource Router](https://github.com/sidb5/adaptive-resource-router)** — Capacity-aware request-routing POC with pluggable eligibility constraints and selection strategies for distributing work across heterogeneous resources.
-- **[Cadence Ops Automation](https://github.com/sidb5/cadence-ops-automation)** — Workflow-automation platform POC for operations teams, focused on durable process execution, task orchestration, state transitions, and operational visibility.
+- **[Ops Automation](https://github.com/sidb5/cadence-ops-automation)** — Workflow-automation platform POC for operations teams, focused on durable process execution, task orchestration, state transitions, and operational visibility.
 
 ### Security, Identity & Data Protection
 - **[Vaultline Storage POC](https://github.com/sidb5/vaultline-storage-poc)** — Tokenizing storage-wrapper POC using envelope-style per-store keys to separate logical identifiers from protected underlying storage.
